@@ -1,0 +1,6 @@
+
+
+principal(){
+
+escreva("Olá, Mundo!");
+}
